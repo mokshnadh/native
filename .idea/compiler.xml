@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="api-service" />
+        <module name="booking-service" />
+        <module name="dashboard-server" />
+        <module name="eureka-server" />
+        <module name="online-table-reservation-common" />
+        <module name="restaurant-service" />
+        <module name="security-service" />
+        <module name="turbine-server" />
+        <module name="user-service" />
+        <module name="zuul-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="6392_chapter5" target="1.8" />
+      <module name="api-service" target="1.8" />
+      <module name="booking-service" target="1.8" />
+      <module name="CloudNativeApp" target="1.8" />
+      <module name="dashboard-server" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="online-table-reservation-common" target="1.8" />
+      <module name="restaurant-service" target="1.8" />
+      <module name="security-service" target="1.8" />
+      <module name="turbine-server" target="1.8" />
+      <module name="user-service" target="1.8" />
+      <module name="zuul-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

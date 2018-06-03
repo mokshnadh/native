@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: online-table-reservation:eureka-server
+Implementation-Version: MMJ-ED2-SNAPSHOT
+Built-By: mokshnadh
+Implementation-Vendor-Id: com.packtpub.mmj
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/6392_chapter
+ 5/eureka-server/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.packtpub.mmj.eureka.service.App
+
