@@ -1,4 +1,4 @@
-package com.packtpub.mmj.api.service.restaurant;
+package com.mmj.api.service.restaurant;
 
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 import java.math.BigInteger;
